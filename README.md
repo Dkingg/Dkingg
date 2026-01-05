@@ -103,7 +103,7 @@ Currently building full-stack applications that:
 
 ## Get in Touch 📬
 
-- 💼 LinkedIn: *Add your LinkedIn link*
+- 💼 LinkedIn: *https://www.linkedin.com/in/gbolahan-oladimeji-541677224/*
 - 🌐 Portfolio: *In progress*
 - 📧 Email: **your-email@example.com**
 
