@@ -105,7 +105,7 @@ Currently building full-stack applications that:
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/gbolahan-oladimeji-541677224/*
 - 🌐 Portfolio: *In progress*
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **oladsimeji@gmail.com**
 
 ---
 
